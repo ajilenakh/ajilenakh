@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on data structures and algorithms.<br>I'm currently learning about data science.<br>Ask me about discord api, vencord.
+404
 
 
 ## 🌐 Socials:
