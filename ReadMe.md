@@ -23,4 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your Name's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&bg_color=ffffff&color=52D5E7&line=52D5E7&point=4E73F6&area=true&hide_border=true)
+
